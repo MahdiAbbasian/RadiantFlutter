@@ -1,6 +1,6 @@
-# signuplogin
+# RadiantFlutter
 
-An Exercise Project
+A Sample Project
 
 ## Getting Started
 
